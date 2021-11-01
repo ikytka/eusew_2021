@@ -1,11 +1,12 @@
 # Energy Talks
 
 ## Circular appliances: a sustainable recipe
-Tuesday, October 26, 2021 10:30 AM to 11:00 AM
-Speakers
+- Tuesday, October 26, 2021 10:30 AM to 11:00 AM
+- Video: https://cdn-api.swapcard.com/public/videos/8a5939d77f644f08a93cadd11622883e.mp4
+
+### Speakers
 - Paolo Falcioni – DG, APPLiA - Home Appliance Europe
 - Federica Lavoro – Communication Specialist, APPLiA 
-Video: https://cdn-api.swapcard.com/public/videos/8a5939d77f644f08a93cadd11622883e.mp4
 
 ## HPC and Big Data as key enablers of Clean Energy Transition
 Tuesday, October 26, 2021 10:30 AM to 11:00 AM
